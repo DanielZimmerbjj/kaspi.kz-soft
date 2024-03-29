@@ -13,4 +13,6 @@ The bot accepts .zip archives and checks them for content. If the archive is emp
 Бот принимает архивы в формате .zip и проверяет их на наличие содержимого. Если архив пуст, бот отправляет соответствующее уведомление пользователю.
 
 
-![image](https://github.com/DanielZimmerbjj/kaspi.kz-soft/assets/105355034/2cb4a764-92e7-400f-9e50-e702c951ec87)
+![image](https://github.com/DanielZimmerbjj/kaspi.kz-soft/assets/105355034/ad19d9c3-9b65-4b98-b038-28f6443e470f)
+
+
